@@ -1,0 +1,8 @@
+<< CAP LS
+<< PASS test
+<< NICK NICKER
+<< USER ahcene ahcene 127.0.0.1 :ahcene
+>> NICKER :Welcome to the Internet Relay Network NICKER!ahcene@127.0.0.1
+>> NICKER :Your host is 127.0.0.1, running version 10.2
+>> NICKER :This server was created Tue Jun 27 15:01:07 2023
+>> NICKER 127.0.0.1 10.2 o itkol
